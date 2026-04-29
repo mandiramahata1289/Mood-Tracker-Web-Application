@@ -45,3 +45,47 @@ CREATE TABLE moods (
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
+# 🌈 Mood Tracker Web Application
+
+## 📌 Overview
+A full-stack web application that allows users to track their daily mood. Built with PHP and MySQL, it includes authentication and CRUD operations.
+
+## 🚀 Features
+- 🔐 User Registration & Login
+- 📊 Mood Tracking System
+- 🗂️ View Mood History
+- ❌ Delete Mood Entry
+- 🔒 Session Management
+
+## 🛠️ Tech Stack
+- PHP
+- MySQL
+- HTML
+- CSS
+
+## 📸 Screenshots
+
+### 📝 Registration Page
+![Register](screenshots/register.png)
+
+### 🔐 Login Page
+![Login](screenshots/login.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### ➕ Add Mood
+![Add Mood](screenshots/add-mood.png)
+
+### ❌ Delete Mood
+![Delete](screenshots/delete.png)
+
+## ⚙️ Setup Instructions
+1. Install XAMPP
+2. Move project to htdocs
+3. Start Apache & MySQL
+4. Import database
+5. Run in browser
+
+## 👩‍💻 Author
+Mandira Mahata
